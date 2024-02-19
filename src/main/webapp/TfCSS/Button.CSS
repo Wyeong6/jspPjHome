@@ -1,0 +1,14 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+.loginForm {
+    text-align: center;
+}
+.button-container button {
+    margin: 0 10px;
+}
+
+h1 {
+    text-align: center;
+}
